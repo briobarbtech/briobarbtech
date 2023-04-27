@@ -1,8 +1,11 @@
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&size=62&pause=1000&center=true&vCenter=true&repeat=false&width=1024&height=100&lines=GREETINGS+STRANGE!" alt="Typing SVG" /></a></p>
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/briobarbtech/briobarbtech/blob/main/profile-transparent-min.png" />
-   <h3 align="center">Greetings, strange! I'm junior software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
+   <h3 align="center">I'm junior software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
    <h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago.</h3>
 </p>
+
+
 
 ```js
 const brian = {
@@ -19,7 +22,7 @@ const brian = {
 
 - 👨‍💻 You can see my formation and projects here [https://briobarbtech.github.io/brian-barquesi/](https://briobarbtech.github.io/brian-barquesi/)
 
-- 💬 I love to talk about **Javascript, Flutter, React** Always ready to learn
+- 💬 I would like to talk about **Javascript, Flutter, React** Always ready to learn
 
 - 📫 If you want to talk to me, you can send me an email. I would love to read you **barquesi.tech@gmail.com**
 
