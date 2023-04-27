@@ -4,7 +4,7 @@
 <h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago.</h3>
 
 ```js
-const Brian = {
+const brian = {
   age: 24,
   occupation: "Software Developer",
   pronouns: "he" | "him",
