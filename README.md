@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Barquesi</h1>
+<h1 align="center">Hi 👋, I'm Brian Barquesi</h1> ![profile image](https://github.com/briobarbtech/briobarbtech/blob/a57291a8251cd5d0e3c9b1e18c879fa7c0e00d6c/profile-transparent.png)
 <h3 align="center">I'm software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
 
 <h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago.</h3>
