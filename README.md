@@ -9,7 +9,7 @@ const Brian = {
   occupation: "Software Developer",
   pronouns: "he",
   hobbies: [read 📚, cook 👨‍🍳, run 🏃, draw 🎨, edit photos 📷 with PS],
-  formations: [Higher Technician in Software Development, Higher Technician in computing and networks]
+  formations: ["Higher Technician in Software Development", "Higher Technician in computing and networks"]
   }
 ```
 
