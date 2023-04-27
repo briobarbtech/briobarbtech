@@ -18,7 +18,7 @@ const brian = {
 
 - 👨‍💻 You can see my formation and projects here [https://briobarbtech.github.io/brian-barquesi/](https://briobarbtech.github.io/brian-barquesi/)
 
-- 💬 Ask me about **Javascript, React, Flutter**
+- 💬 Ask me about **Javascript, Flutter, React**
 
 - 📫 How to reach me **barquesi.tech@gmail.com**
 
