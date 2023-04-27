@@ -14,7 +14,7 @@ const brian = {
   }
 ```
 
-- 🌱 I’m currently learning **React library, and taking the web-oriented Node Js course**
+- 🌱 I’m currently learning **React library, and taking a web-oriented Node Js course**
 
 - 👨‍💻 You can see my formation and projects here [https://briobarbtech.github.io/brian-barquesi/](https://briobarbtech.github.io/brian-barquesi/)
 
