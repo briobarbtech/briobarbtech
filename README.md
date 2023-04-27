@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Brian Barquesi</h1>
 <h3 align="center">I'm software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
 
-<h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago. I love to read 📚, cook 👨‍🍳, run 🏃, draw 🎨 and edit photos 📷 with PS. </h3>
+<h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago.</h3>
+const Brian = {
+  age: 24,
+  occupation: "Software Developer",
+  pronouns: "he",
+  hobbies: [read 📚, cook 👨‍🍳, run 🏃, draw 🎨, edit photos 📷 with PS],
+  formations: [Higher Technician in Software Development, Higher Technician in computing and networks]
+  };
 <h2 align="center"> But besides that, I love helping people solve their problems through coding. 💻 </h2>
+<h2 align="center"> I dream of being part of a project and helping to create solutions for people </h2>
 - 🌱 I’m currently learning **React library, and taking Node Js course web oriented**
 
 - 👨‍💻 You can see my formation and projects here [https://briobarbtech.github.io/brian-barquesi/](https://briobarbtech.github.io/brian-barquesi/)
