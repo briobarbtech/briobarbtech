@@ -1,7 +1,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&size=62&pause=1000&color=00426D&center=true&width=1024&height=100&lines=GREEETINGS+STRANGER!" alt="Typing SVG" /></a></p>
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/briobarbtech/briobarbtech/blob/main/profile-transparent-min.png" />
-   <h3 align="center">I'm junior software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
+   <h2 align="center">I'm junior software developer from Argentina - Mendoza, nice to meet you! 😊</h2>
    <h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago.</h3>
 </p>
 
