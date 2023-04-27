@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/briobarbtech/briobarbtech/blob/main/profile-transparent-min.png" />
-   <h3 align="center">I'm software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
+   <h3 align="center">Greetings, strange! I'm junior software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
    <h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago.</h3>
 </p>
 
@@ -15,15 +15,15 @@ const brian = {
   }
 ```
 
-- 🌱 I’m currently learning **React library, and taking a web-oriented Node Js course**
+- 🌱 I’m currently learning **React, and taking a web-oriented Node Js course**
 
 - 👨‍💻 You can see my formation and projects here [https://briobarbtech.github.io/brian-barquesi/](https://briobarbtech.github.io/brian-barquesi/)
 
-- 💬 Ask me about **Javascript, Flutter, React**
+- 💬 I love to talk about **Javascript, Flutter, React** Always ready to learn
 
-- 📫 How to reach me **barquesi.tech@gmail.com**
+- 📫 If you want to talk to me, you can send me an email. I would love to read you **barquesi.tech@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VrjzY0q8FEJws2-f5TFkl1j6jJX17LlX/view?usp=share_link](https://drive.google.com/file/d/1VrjzY0q8FEJws2-f5TFkl1j6jJX17LlX/view?usp=share_link)
+- 📄 You can see my experiences reading my [Curriculum vitae](https://drive.google.com/file/d/1VrjzY0q8FEJws2-f5TFkl1j6jJX17LlX/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
