@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&size=62&pause=1000&center=true&vCenter=true&repeat=false&width=1024&height=100&lines=GREETINGS+STRANGE!" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&size=62&pause=1000&center=true&vCenter=true&repeat=false&width=1024&height=100&lines=GREETINGS+STRANGER!" alt="Typing SVG" /></a></p>
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/briobarbtech/briobarbtech/blob/main/profile-transparent-min.png" />
    <h3 align="center">I'm junior software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
