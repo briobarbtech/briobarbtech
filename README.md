@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React library, and taking Node Js course web oriented**
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="10" height="10"/> </a> I'm really loving this library, It makes everything easiest with components 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> I'm really loving this library, It makes everything easiest with components 
 
 - 👨‍💻 You can see my formation and projects here [https://briobarbtech.github.io/brian-barquesi/](https://briobarbtech.github.io/brian-barquesi/)
 
