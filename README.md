@@ -12,7 +12,7 @@ const brian = {
   age: 24,
   occupation: "Software Developer",
   pronouns: "he" | "him",
-  code: [Javascript, Dart, Java, Python ]
+  code: [ Javascript, Dart, Java, Python ],
   hobbies: [read 📚, cook 👨‍🍳, run 🏃, draw 🎨, edit photos 📷 with PS],
   formations: ["Higher Technician in Software Development", "Higher Technician in computing and networks"]
   }
