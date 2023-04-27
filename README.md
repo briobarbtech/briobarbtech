@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Brian Barquesi</h1> [https://github.com/briobarbtech/briobarbtech/blob/main/profile-transparent.png][Profile picture]
-<h3 align="center">I'm software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
-
-<h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago.</h3>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/briobarbtech/briobarbtech/blob/main/profile-transparent-min.png" />
+   <h3 align="center">I'm software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
+   <h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago.</h3>
+</p>
 
 ```js
 const brian = {
