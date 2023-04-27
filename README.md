@@ -2,7 +2,7 @@
 <h3 align="center">I'm software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
 
 <h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago.</h3>
-``js
+```js
 const Brian = {
   age: 24,
   occupation: "Software Developer",
@@ -10,7 +10,7 @@ const Brian = {
   hobbies: [read 📚, cook 👨‍🍳, run 🏃, draw 🎨, edit photos 📷 with PS],
   formations: [Higher Technician in Software Development, Higher Technician in computing and networks]
   };
-``
+```
 <h2 align="center"> But besides that, I love helping people solve their problems through coding. 💻 </h2>
 <h2 align="center"> I dream of being part of a project and helping to create solutions for people </h2>
 - 🌱 I’m currently learning **React library, and taking the web-oriented Node Js course**
