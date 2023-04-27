@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Barquesi</h1>
 <h3 align="center">I'm software developer from Argentina - Mendoza, nice to meet you! 😊</h3>
 
-<h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago. I love reading, cooking, running, draw, and make edits photos with PS. </h3>
+<h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago. I love to read, cook, run, draw and edit photos with PS. </h3>
 
 - 🌱 I’m currently learning **React library, and taking Node Js course web oriented**
 
