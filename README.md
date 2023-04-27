@@ -11,7 +11,7 @@ const Brian = {
   };
 <h2 align="center"> But besides that, I love helping people solve their problems through coding. 💻 </h2>
 <h2 align="center"> I dream of being part of a project and helping to create solutions for people </h2>
-- 🌱 I’m currently learning **React library, and taking Node Js course web oriented**
+- 🌱 I’m currently learning **React library, and taking the web-oriented Node Js course**
 
 - 👨‍💻 You can see my formation and projects here [https://briobarbtech.github.io/brian-barquesi/](https://briobarbtech.github.io/brian-barquesi/)
 
