@@ -4,7 +4,7 @@
 <h3 align="center"> I'm 24 years old. I'm studying programming since 5 years ago. I love to read 📚, cook 👨‍🍳, run 🏃, draw 🎨 and edit photos 📷 with PS. </h3>
 
 - 🌱 I’m currently learning **React library, and taking Node Js course web oriented**
-<h4 align="center"> I'm really loving this library, It makes everything easiest with components </h4>
+<h4> I'm really loving this library, It makes everything easiest with components </h4>
 
 - 👨‍💻 You can see my formation and projects here [https://briobarbtech.github.io/brian-barquesi/](https://briobarbtech.github.io/brian-barquesi/)
 
