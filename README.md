@@ -9,7 +9,7 @@
 
 ```js
 const brian = {
-  age: 24,
+  age: 25,
   occupation: "Software Developer",
   pronouns: "he" | "him",
   code: [ Javascript, Dart, Java, Python ],
